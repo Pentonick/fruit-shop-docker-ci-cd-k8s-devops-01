@@ -56,23 +56,23 @@
 
 ---
 
-## 📂 Project Structure
-
-```text
-Fruitkha-Web-Project
-│
-├── assets/             # CSS, JS, Images, and Fonts
-├── index.html          # Main Home Page (Static)
-├── index_2.html        # Slider Version Home Page
-├── about.html          # About Page
-├── cart.html           # Shopping Cart
-├── checkout.html       # Checkout Process
-├── contact.html        # Contact Page
-├── news.html           # Blog/News Page [cite: 16]
-├── mail.php            # Form Handling Script
-└── 404.html            # Error Page
-
----
+    ## 📂 Project Structure
+    
+    ```text
+    Fruitkha-Web-Project
+    │
+    ├── assets/             # CSS, JS, Images, and Fonts
+    ├── index.html          # Main Home Page (Static)
+    ├── index_2.html        # Slider Version Home Page
+    ├── about.html          # About Page
+    ├── cart.html           # Shopping Cart
+    ├── checkout.html       # Checkout Process
+    ├── contact.html        # Contact Page
+    ├── news.html           # Blog/News Page [cite: 16]
+    ├── mail.php            # Form Handling Script
+    └── 404.html            # Error Page
+    
+    ---
 
 ## 💻 Installation & Setup
 
