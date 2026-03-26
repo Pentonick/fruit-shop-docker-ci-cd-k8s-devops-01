@@ -1,6 +1,6 @@
-# 🍎 Fruitkha - Fresh & Organic E-Commerce Template
+# 🍎 Fruitkha - Fresh & Organic E-Commerce 
 
-[cite_start]**Fruitkha** is a modern, responsive, and clean E-Commerce Web Template designed for organic fruits and food delivery businesses[cite: 2]. [cite_start]The primary objective of this project is to provide a user-friendly interface where customers can browse fresh products and place orders seamlessly[cite: 3]. [cite_start]It covers the entire workflow from front-end design to back-end contact functionality[cite: 4].
+[cite_start]**Fruitkha** is a modern, responsive, and clean E-Commerce Web designed for organic fruits and food delivery businesses[cite: 2]. [cite_start]The primary objective of this project is to provide a user-friendly interface where customers can browse fresh products and place orders seamlessly[cite: 3]. [cite_start]It covers the entire workflow from front-end design to back-end contact functionality[cite: 4].
 
 ---
 
