@@ -107,4 +107,4 @@
 
 * Email: pentonick09@gmail.com 
 
-* ![LinkedIn](https://www.linkedin.com/in/divyesh-kaklotar-p09/)
+* LinkedIn: https://www.linkedin.com/in/divyesh-kaklotar-p09
